@@ -15,10 +15,10 @@
         <p><strong>Email:</strong> <span>support@earnstats.com</span></p>
       </div>
       <div class="social-links d-flex mt-4">
-        <a href=""><i class="bi bi-twitter"></i></a>
+        <!-- <a href=""><i class="bi bi-twitter"></i></a>
         <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a> -->
+        <a href="https://www.youtube.com/@Earnstats9899"><i class="bi bi-youtube"></i></a>
       </div>
     </div>
 
