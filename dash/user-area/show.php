@@ -33,7 +33,7 @@ include "includes/header.php";
                                 <tr>
                                     <th>PLANS</th>
                                     <th>AMOUNT SPENT ($)</th>
-                                    <th>DAILY PROFIT ($)</th>
+                                    <th>DAILY PROFIT (%)</th>
                                     <th>DURATION</th>
 
 
