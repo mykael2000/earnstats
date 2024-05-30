@@ -1,7 +1,7 @@
 <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
 var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'abe196980f4ddf9f55dc4875abbf2cb6cba340bb';
+_smartsupp.key = 'f2981f1adb9fe9e9cee7895f89970dd8638834d6';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');
